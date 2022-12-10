@@ -1,0 +1,11 @@
+.filter-area {
+    padding: 2px 20px;
+    margin: auto;
+    margin-bottom: 10px;
+}
+
+.available {
+    margin-left: 20%;
+    border-style: none;
+    border-radius: 5px;
+}
